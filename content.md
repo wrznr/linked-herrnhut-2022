@@ -46,8 +46,8 @@ count: false
 # Overview
 
 - Belege als Grundlage von Forschungsarbeit
-  + Textsammlungen als wichtige Belegquelle
-- *Cloze* vs. *Distant* Reading
+    + Textsammlungen als wichtige Belegquelle
+    + *Close* vs. *Distant* Reading
 - multimodale Forschungskorpora
 - Linked open data und Wikidata
 - Was wäre wenn?
@@ -68,9 +68,6 @@ count: false
 - empirische Forschung → Belege
 ]
 .sixty[
-<p style="margin-top:-20px">
-<img src="https://files.gitter.im/5b97ae51d73408ce4fa7b1ee/LYSx/lstm-fraktur-arrows.png" width="650px" style="transform:rotate(90deg);"/>
-</p>
 ]
 ]
 
@@ -86,16 +83,16 @@ count: false
 ]
 .sixty[
 <p style="margin-top:-20px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Gneis2.jpg" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Gneis2.jpg" height="500px" />
 </p>
 ]
 ]
 
 ---
 
-# Belege als Forschungsgrundlage
-
 count: false
+
+# Belege als Forschungsgrundlage
 
 .cols[
 .fourty[
@@ -103,16 +100,16 @@ count: false
 ]
 .sixty[
 <p style="margin-top:-20px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Specimen_Vitellaria_paradoxa.jpg" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Specimen_Vitellaria_paradoxa.jpg" height="500px" />
 </p>
 ]
 ]
 
 ---
 
-# Belege als Forschungsgrundlage
-
 count: false
+
+# Belege als Forschungsgrundlage
 
 .cols[
 .fourty[
@@ -120,16 +117,16 @@ count: false
 ]
 .sixty[
 <p style="margin-top:-20px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Ebstorfer-stich2.jpg" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Ebstorfer-stich2.jpg" height="500px" />
 </p>
 ]
 ]
 
 ---
 
-# Belege als Forschungsgrundlage
-
 count: false
+
+# Belege als Forschungsgrundlage
 
 .cols[
 .fourty[
@@ -137,16 +134,16 @@ count: false
 ]
 .sixty[
 <p style="margin-top:-20px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Codex_Manesse_127r.jpg" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Codex_Manesse_127r.jpg" height="500px" />
 </p>
 ]
 ]
 
 ---
 
-# Belege als Forschungsgrundlage
-
 count: false
+
+# Belege als Forschungsgrundlage
 
 .cols[
 .fourty[
@@ -160,7 +157,7 @@ count: false
 ]
 .sixty[
 <p style="margin-top:-20px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Codex_Manesse_127r.jpg" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Codex_Manesse_127r.jpg" height="500px" />
 </p>
 ]
 ]
@@ -179,23 +176,62 @@ count: false
     + meinungsbehaftet
     + indirekte Wiedergabe von Sachverhalten
 - *Korpora*, *Korpuslinguistik*
-- repräsentative Erfassung einer Sprache, eines Sprachstandes, eines speziellen Ausschnitts einer Sprache
-    + Referenzkorpora
-        * British National Corpus
-        * Deutsches Textarchiv
-    + Gemeinnachrichten
+    * repräsentative Erfassung einer Sprache, eines Sprachstandes, eines speziellen Ausschnitts einer Sprache
+        + Referenzkorpora: British National Corpus, Deutsches Textarchiv
+        + Herrnhut: Gemeinnachrichten, Lebensläufe, Gelegenheitsschriften
+
+---
+
+# Exkurs: Fliegls Index
+
+---
+
+# Close vs. Distant Reading
+
+- systematische Auswertung von Textkorpora
+- *Close* reading: eigentlich grundlegende Methode der Literaturwissenschaft
+- seit Franco Morretti (2005) *Graphs, Maps, Trees*: Gegenüberstellung (manueller) *Einzelbelegauswertung* und
+der (automatischen) *Analyse großer Textmengen* (**Distant Reading**)
+- Erkenntnisgewinn durch automatische Textanalyse ein großes Versprechen der *Digital Humanities*
+- elaborierte Werkzeuge wie *DiaCollo* und *SketchEngine*
+- **kurze Demo**
+
+| you shall know a word by the company it keeps (Firth 1957)
 
 ---
 
 class: part-slide
 count: false
 
-# Cloze vs. Distant Reading
+# multimodale Forschungskorpora
 
 ---
 
-# Cloze vs. Distant Reading
+# multimodale Forschungskorpora
 
+
+.cols[
+.fourty[
+- im Kontext des *Moravian Knowledge Archive* nicht nur Texte relevant
+]
+.sixty[
+]
+]
+
+---
+
+count: false
+
+# multimodale Forschungskorpora
+
+
+.cols[
+.fourty[
+- im Kontext des *Moravian Knowledge Archive* nicht nur Texte relevant
+]
+.sixty[
+]
+]
 
 ---
 
