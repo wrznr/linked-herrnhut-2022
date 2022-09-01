@@ -49,8 +49,7 @@ count: false
     + Textsammlungen als wichtige Belegquelle
     + *Close* vs. *Distant* Reading
 - multimodale Forschungskorpora
-- Linked open data und Wikidata
-- Was wäre wenn?
+- Diskussion: Was wäre wenn?
 
 ---
 
@@ -184,6 +183,14 @@ count: false
 
 # Exkurs: Fliegls Index
 
+- Karteikartenkatalog über Herrnhutische Quellen zur Mission in Nordamerika
+    + 30 000 Karten mit 135 000 Einträgen
+    + zu ca. 50 000 Manuskriptseiten(!)
+- verfilmt und retrodigitalisiert
+
+<img src="https://files.gitter.im/62a0c4076da0373984982fe9/lJZc/image.png" width="500px" />
+
+
 ---
 
 # Close vs. Distant Reading
@@ -196,7 +203,7 @@ der (automatischen) *Analyse großer Textmengen* (**Distant Reading**)
 - elaborierte Werkzeuge wie *DiaCollo* und *SketchEngine*
 - **kurze Demo**
 
-| you shall know a word by the company it keeps (Firth 1957)
+> you shall know a word by the company it keeps (Firth 1957)
 
 ---
 
@@ -228,10 +235,117 @@ count: false
 .cols[
 .fourty[
 - im Kontext des *Moravian Knowledge Archive* nicht nur Texte relevant
+    + Botanik
 ]
 .sixty[
 ]
 ]
+
+---
+
+count: false
+
+# multimodale Forschungskorpora
+
+
+.cols[
+.fourty[
+- im Kontext des *Moravian Knowledge Archive* nicht nur Texte relevant
+    + Botanik
+    + Musik
+]
+.sixty[
+]
+]
+
+---
+
+count: false
+
+# multimodale Forschungskorpora
+
+
+.cols[
+.fourty[
+- im Kontext des *Moravian Knowledge Archive* nicht nur Texte relevant
+    + Botanik
+    + Musik
+    + Landschaftsarchitektur
+]
+.sixty[
+]
+]
+
+---
+
+count: false
+
+# multimodale Forschungskorpora
+
+
+.cols[
+.fourty[
+- im Kontext des *Moravian Knowledge Archive* nicht nur Texte relevant
+    + Botanik
+    + Musik
+    + Landschaftsarchitektur
+    + Theologie
+]
+.sixty[
+]
+]
+
+---
+
+count: false
+
+# multimodale Forschungskorpora
+
+
+.cols[
+.fourty[
+- im Kontext des *Moravian Knowledge Archive* nicht nur Texte relevant
+    + Botanik
+    + Musik
+    + Landschaftsarchitektur
+    + Theologie
+    + Landeskunde
+]
+.sixty[
+]
+]
+
+---
+
+# multimodale Forschungskorpora
+
+- aktueller Stand: mehr oder weniger lose Sammlungen auf verschiedener Ebene
+- **Ziel**: multimodale, agile Forschungskorpora
+- erste Versuche der Verknüpfung verschiedener Ebenen
+    + *3D-Modelle*: Quellen am Entstehungs- bzw. Bezugsort sichtbar
+    + *digitale Editionen*: Auszeichnungen zweiter Ebene (Entitäten)
+- **gesucht**: Konzept für vollständige Verknüpfbarkeit und kontextsensitive Abfrage → Wikidata als verknüpfende Infrastruktur
+
+> you shall know an object by the company it keeps (Sadeghi et al. 2015)
+
+---
+
+class: part-slide
+count: false
+
+# Was wäre wenn?
+
+- Möglichkeiten einer vollvernetzten Datengrundlage
+    + “Did David Brainerd and David Zeisberger ever meet?”
+        * no brainer
+    + Fliegel 2.0
+        * Desambiguierung bzw. Instanziierung
+    + Floren
+        * Wer fand was wo?
+    + Bsp. *Antrag*
+        Illustration bzw. Konkretisierung
+    + ...
+- **Maschinengestütztes** Close Reading
 
 ---
 
@@ -240,5 +354,5 @@ class: part-slide
 # Many thanks for your attention!
 
 <center>
-<a href="https://wrznr.github.io/slide-template/">wrznr.github.io/slide-template</a>
+<a href="https://wrznr.github.io/linked-herrnhut-2022/">wrznr.github.io/linked-herrnhut-2022</a>
 </center>
