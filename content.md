@@ -10,7 +10,7 @@ layout: true
       <td style="text-align:right"><a href="https://www.slub-dresden.de/">www.slub-dresden.de</a></td>
     </tr>
     <tr>
-      <td style="text-align:right">Referat *Open Science*</td>
+      <td style="text-align:right">Referat <i>Open Science</i></td>
       <td />
     </tr>
   </table>
@@ -22,10 +22,10 @@ layout: true
       <td style="text-align:left"><b>Kay-Michael Würzner</b></td>
     </tr>
     <tr>
-      <td style="text-align:left">Referat *Open Science*</td>
+      <td style="text-align:left">Referat <i>Open Science</i></td>
     </tr>
     <tr>
-      <td style="font-size:8pt"><b>1. September 2022</b></td>
+      <td style="font-size:8pt"><b>2. September 2022</b></td>
     </tr>
     <tr>
       <td style="font-size:8pt">Sommerworkshop II: Herrnhut im Wikimedia-Universum</td>
