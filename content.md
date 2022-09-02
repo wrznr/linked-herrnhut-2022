@@ -352,14 +352,29 @@ count: false
 
 # Was wäre wenn?
 
+---
+
+# Was wäre wenn?
+
 - Möglichkeiten einer vollvernetzten Datengrundlage
     + “Did David Brainerd and David Zeisberger ever meet?”: no brainer
     + Floren: Wer fand was wo?
     + Bsp. *Antrag*: Illustration bzw. Konkretisierung
-- Fliegel 2.0
-    * Zwischenschicht bei entsprechende Auszeichnung obsolet
-    * Desambiguierung bzw. Instanziierung
 - **Maschinengestütztes** Close Reading
+    + arbeitsintensiver Prozess der Auszeichnung (mglw. teilautomatisert)
+    + Formulierung von SPARQL-Abfragen zur Theorieüberprüfung (und Exploration)
+    + Desambiguierung, Instanziierung, Erläuterung von Entitäten und Objekten mittels WD-Verknüpfung
+
+---
+
+# Fliegel 2.0
+
+- Zwischenschicht bei entsprechender Auszeichnung obsolet
+- automatische Extraktion von Faktoiden
+
+<center>
+<img src="https://www.slub-dresden.de/fileadmin/_processed_/d/1/csm_MP_3_09__5cefdd9fd8.jpg" width="500px" />
+</center>
 
 ---
 
