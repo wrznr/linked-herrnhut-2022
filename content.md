@@ -10,7 +10,7 @@ layout: true
       <td style="text-align:right"><a href="https://www.slub-dresden.de/">www.slub-dresden.de</a></td>
     </tr>
     <tr>
-      <td style="text-align:right">Referat 4.3</td>
+      <td style="text-align:right">Referat *Open Science*</td>
       <td />
     </tr>
   </table>
@@ -22,7 +22,7 @@ layout: true
       <td style="text-align:left"><b>Kay-Michael Würzner</b></td>
     </tr>
     <tr>
-      <td style="text-align:left">Referat 4.3</td>
+      <td style="text-align:left">Referat *Open Science*</td>
     </tr>
     <tr>
       <td style="font-size:8pt"><b>1. September 2022</b></td>
@@ -72,9 +72,9 @@ count: false
 
 ---
 
-# Belege als Forschungsgrundlage
-
 count: false
+
+# Belege als Forschungsgrundlage
 
 .cols[
 .fourty[
@@ -99,7 +99,7 @@ count: false
 ]
 .sixty[
 <p style="margin-top:-20px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Specimen_Vitellaria_paradoxa.jpg" height="500px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Gro%C3%9Fe_Faustkeile.JPG" height="500px" />
 </p>
 ]
 ]
@@ -188,7 +188,9 @@ count: false
     + zu ca. 50 000 Manuskriptseiten(!)
 - verfilmt und retrodigitalisiert
 
+<center>
 <img src="https://files.gitter.im/62a0c4076da0373984982fe9/lJZc/image.png" width="500px" />
+</center>
 
 
 ---
@@ -200,7 +202,7 @@ count: false
 - seit Franco Morretti (2005) *Graphs, Maps, Trees*: Gegenüberstellung (manueller) *Einzelbelegauswertung* und
 der (automatischen) *Analyse großer Textmengen* (**Distant Reading**)
 - Erkenntnisgewinn durch automatische Textanalyse ein großes Versprechen der *Digital Humanities*
-- elaborierte Werkzeuge wie *DiaCollo* und *SketchEngine*
+- elaborierte Werkzeuge wie [*DiaCollo*](https://kaskade.dwds.de/dstar/bruedergemeine/diacollo/?query=Heimat&_s=submit&date=&slice=10&score=ld&kbest=10&cutoff=&profile=2&format=html&groupby=&eps=0) und *SketchEngine*
 - **kurze Demo**
 
 > you shall know a word by the company it keeps (Firth 1957)
@@ -239,6 +241,9 @@ count: false
 ]
 .sixty[
 ]
+<center>
+<img src="https://tu-dresden.de/tu-dresden/ressourcen/bilder/gff/bilder_news/Hebarium-1.png/@@images/4ffaeb00-c37f-4bb7-82e8-803c81d562b3.png" width="300px" />
+</center>
 ]
 
 ---
@@ -255,6 +260,9 @@ count: false
     + Musik
 ]
 .sixty[
+<center>
+<img src="https://files.gitter.im/62a0c4076da0373984982fe9/bM3H/test.jpg" height="500px" />
+</center>
 ]
 ]
 
@@ -273,6 +281,9 @@ count: false
     + Landschaftsarchitektur
 ]
 .sixty[
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Herrnhut_Gottesacker_aerial.jpg" width="300px" />
+</center>
 ]
 ]
 
@@ -292,6 +303,9 @@ count: false
     + Theologie
 ]
 .sixty[
+<center>
+<img src="https://www.buchfreund.de/produkt-bilder-lg/85881304/1/herrnhut-theologische-gespraeche-mit-der-bulgarischen-orthodoxen-kirche.jpg" height="500px" />
+</center>
 ]
 ]
 
@@ -312,6 +326,9 @@ count: false
     + Landeskunde
 ]
 .sixty[
+<center>
+<img src="https://www.slub-dresden.de/fileadmin/_processed_/d/1/csm_MP_3_09__5cefdd9fd8.jpg" width="300px" />
+</center>
 ]
 ]
 
@@ -336,15 +353,12 @@ count: false
 # Was wäre wenn?
 
 - Möglichkeiten einer vollvernetzten Datengrundlage
-    + “Did David Brainerd and David Zeisberger ever meet?”
-        * no brainer
-    + Fliegel 2.0
-        * Desambiguierung bzw. Instanziierung
-    + Floren
-        * Wer fand was wo?
-    + Bsp. *Antrag*
-        Illustration bzw. Konkretisierung
-    + ...
+    + “Did David Brainerd and David Zeisberger ever meet?”: no brainer
+    + Floren: Wer fand was wo?
+    + Bsp. *Antrag*: Illustration bzw. Konkretisierung
+- Fliegel 2.0
+    * Zwischenschicht bei entsprechende Auszeichnung obsolet
+    * Desambiguierung bzw. Instanziierung
 - **Maschinengestütztes** Close Reading
 
 ---
@@ -352,6 +366,11 @@ count: false
 class: part-slide
 
 # Many thanks for your attention!
+
+<center>
+<img src="https://neuzeit.ev.theologie.uni-mainz.de/files/2021/04/Kurze_Nachricht_von_der_Kirche_Unitas_Fratrum_76.jpg" width="500px" />
+</center>
+
 
 <center>
 <a href="https://wrznr.github.io/linked-herrnhut-2022/">wrznr.github.io/linked-herrnhut-2022</a>
