@@ -242,7 +242,7 @@ count: false
 .sixty[
 ]
 <center>
-<img src="https://tu-dresden.de/tu-dresden/ressourcen/bilder/gff/bilder_news/Hebarium-1.png/@@images/4ffaeb00-c37f-4bb7-82e8-803c81d562b3.png" width="300px" />
+<img src="https://tu-dresden.de/tu-dresden/ressourcen/bilder/gff/bilder_news/Hebarium-1.png" width="350px" />
 </center>
 ]
 
@@ -282,7 +282,7 @@ count: false
 ]
 .sixty[
 <center>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Herrnhut_Gottesacker_aerial.jpg" width="300px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Herrnhut_Gottesacker_aerial.jpg" width="350px" />
 </center>
 ]
 ]
